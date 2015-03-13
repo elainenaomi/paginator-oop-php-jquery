@@ -1,0 +1,1 @@
+This is a class that use jQuery + PHP to build an app that can do request for a database using limit. This app can build filter on a datagrid.
